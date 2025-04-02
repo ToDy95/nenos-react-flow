@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with
 
 Here is a preview of the application:
 
-![Application Preview](./app-interface.png)
+![Application Preview](/app-interface.png)
 
 ## Features
 
